@@ -1,0 +1,10 @@
+C:\Users\milan\OneDrive\Plocha\kalkulačka\kalkulačka\bin\Debug\kalkulačka.exe.config
+C:\Users\milan\OneDrive\Plocha\kalkulačka\kalkulačka\bin\Debug\kalkulačka.exe
+C:\Users\milan\OneDrive\Plocha\kalkulačka\kalkulačka\bin\Debug\kalkulačka.pdb
+C:\Users\milan\OneDrive\Plocha\kalkulačka\kalkulačka\obj\Debug\kalkulačka.csproj.AssemblyReference.cache
+C:\Users\milan\OneDrive\Plocha\kalkulačka\kalkulačka\obj\Debug\kalkulačka.Properties.Resources.resources
+C:\Users\milan\OneDrive\Plocha\kalkulačka\kalkulačka\obj\Debug\kalkulačka.csproj.GenerateResource.cache
+C:\Users\milan\OneDrive\Plocha\kalkulačka\kalkulačka\obj\Debug\kalkulačka.csproj.CoreCompileInputs.cache
+C:\Users\milan\OneDrive\Plocha\kalkulačka\kalkulačka\obj\Debug\kalkulačka.exe
+C:\Users\milan\OneDrive\Plocha\kalkulačka\kalkulačka\obj\Debug\kalkulačka.pdb
+C:\Users\milan\OneDrive\Plocha\kalkulačka\kalkulačka\obj\Debug\kalkulačka.kalkulačka.resources
